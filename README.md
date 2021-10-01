@@ -1,6 +1,18 @@
 ## Airport_challenge_JS
 This is the first challenge we had at makers! Now we get to try it again in Java Script.
 
+```
+        ______
+        _\____\___
+=  = ==(____MA____)
+          \_____\___________________,-~~~~~~~`-.._
+          /     o o o o o o o o o o o o o o o o  |\_
+          `~-.__       __..----..__                  )
+                `---~~\___________/------------`````
+                =  ===(_________)
+```
+
+
 ## Set up jasmine
 ```
 cp -r ~/Downloads/jasmine-standalone-3.9.0.zip .
