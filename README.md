@@ -1,1 +1,37 @@
-# Airport_challenge_JS
+## Airport_challenge_JS
+This is the first challenge we had at makers! Now we get to try it again in Java Script.
+
+## Set up jasmine
+```
+cp -r ~/Downloads/jasmine-standalone-3.9.0.zip .
+unzip jasmine-standalone-3.9.0.zip
+then delete the play/song files
+update the SpecRunner.html with the scr/spec files
+```
+
+## User stories
+```
+As an air traffic controller 
+So I can get passengers to a destination 
+I want to instruct a plane to land at an airport
+
+As an air traffic controller 
+So I can get passengers on the way to their destination 
+I want to instruct a plane to take off from an airport and confirm that it is no longer in the airport
+
+As an air traffic controller 
+To ensure safety 
+I want to prevent landing when the airport is full 
+
+As the system designer
+So that the software can be used for many different airports
+I would like a default airport capacity that can be overridden as appropriate
+
+As an air traffic controller 
+To ensure safety 
+I want to prevent takeoff when weather is stormy 
+
+As an air traffic controller 
+To ensure safety 
+I want to prevent landing when weather is stormy 
+```
